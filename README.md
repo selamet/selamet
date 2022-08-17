@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<a href="https://app.daily.dev/selamet"><img src="https://api.daily.dev/devcards/fe633c23f38d45569c67fcc47cdd1a2e.png?r=d7c" width="400" alt="Selamet Şamlı's Dev Card"/></a>
+<a href="https://app.daily.dev/selamet"><img src="https://api.daily.dev/devcards/fe633c23f38d45569c67fcc47cdd1a2e.png?r=flh" width="400" alt="Selamet Şamlı's Dev Card"/></a>
 </p>
